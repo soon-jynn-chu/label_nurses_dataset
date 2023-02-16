@@ -151,7 +151,7 @@ print(f"Finished in {time.time() - start_time}s")
 Section IV: Label Data
 - Match the timestamp from SurveyResults.xlsx with the signals
 '''
-print("Labeling data")
+print("Labelling data")
 
 start_time = time.time()
 

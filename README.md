@@ -1,4 +1,4 @@
-# Data Labeling for Nurses Dataset
+# Data Labelling for Nurses Dataset
 An example script to label the data for the following paper
 [A multimodal sensor dataset for continuous stress detection of nurses in a hospital](https://www.nature.com/articles/s41597-022-01361-y)
 
