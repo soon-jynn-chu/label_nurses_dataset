@@ -4,7 +4,7 @@ An example script to label the data for the following paper
 
 ## Quickstart
 - The dataset files (Stress_dataset.zip and SurveyResults.xlsx) can be found [here](https://zenodo.org/record/5514277#.Y-z_FnbMJPY)
-- Clone this repository
+- `git clone https://github.com/soon-jynn-chu/label_nurses_dataset.git`
 - Install dependencies `pip install numpy pandas openpyxl`
 - Edit the configurations in `opts.py` as needed
 - Execute the file `python main.py`
